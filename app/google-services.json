@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "139440908525",
+    "project_id": "smartpark-945c1",
+    "storage_bucket": "smartpark-945c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139440908525:android:f3b1930af49958ed0e04e4",
+        "android_client_info": {
+          "package_name": "com.example.smartpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139440908525-jqsrok6nkdq86g25mth0rt8qtbhenlfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTtmCxjvkoZDSL4pEDiW5XO79gI2Nbek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139440908525-jqsrok6nkdq86g25mth0rt8qtbhenlfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139440908525:android:deaff7faf999142c0e04e4",
+        "android_client_info": {
+          "package_name": "com.isaak.smartpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139440908525-jqsrok6nkdq86g25mth0rt8qtbhenlfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTtmCxjvkoZDSL4pEDiW5XO79gI2Nbek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139440908525-jqsrok6nkdq86g25mth0rt8qtbhenlfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
